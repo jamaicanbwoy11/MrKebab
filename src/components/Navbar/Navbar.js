@@ -10,7 +10,7 @@ import {
   Menu,
   Popup,
 } from "semantic-ui-react";
-import logo from "../../assets/bodega-logo.png";
+import logo from "../../assets/logo.png";
 import { FaShoppingCart, FaUserAlt, FaWhatsapp } from "react-icons/fa";
 import SearchBar from "./SearchBar";
 import SideBarMenu from "./SideBarMenu";
@@ -50,7 +50,7 @@ function Navbar() {
         <Container>
           <Grid style={{ paddingTop: "15px" }}>
             <Grid.Column only="large screen" floated="left" width={5}>
-              Welcome to Bodega food
+              Welcome to Mr. Kebab
             </Grid.Column>
             <Grid.Column floated="right" width={3}>
               <FaWhatsapp />

@@ -50,10 +50,10 @@ function ProductCard(props) {
                   color: "#828282",
                 }}
               >
-                RM32.00
+                USD 32.00
               </span>
             )}
-            {`RM${price}`}
+            {`$${price}`}
           </Header>
         </span>
       </Card.Content>
