@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8946727f.chunk.css",
+    "main.js": "/static/js/main.ea5ced41.chunk.js",
+    "main.js.map": "/static/js/main.ea5ced41.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.853a85ce.js",
+    "runtime-main.js.map": "/static/js/runtime-main.853a85ce.js.map",
+    "static/css/2.9cd87427.chunk.css": "/static/css/2.9cd87427.chunk.css",
+    "static/js/2.cac85ebf.chunk.js": "/static/js/2.cac85ebf.chunk.js",
+    "static/js/2.cac85ebf.chunk.js.map": "/static/js/2.cac85ebf.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.9cd87427.chunk.css.map": "/static/css/2.9cd87427.chunk.css.map",
+    "static/css/main.8946727f.chunk.css.map": "/static/css/main.8946727f.chunk.css.map",
+    "static/js/2.cac85ebf.chunk.js.LICENSE.txt": "/static/js/2.cac85ebf.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/food-2.968d3559.jpeg": "/static/media/food-2.968d3559.jpeg",
+    "static/media/food-3.67609d78.jpeg": "/static/media/food-3.67609d78.jpeg",
+    "static/media/food-4.f421bffb.jpeg": "/static/media/food-4.f421bffb.jpeg",
+    "static/media/food-5.caeb58a7.jpeg": "/static/media/food-5.caeb58a7.jpeg",
+    "static/media/lula.ac124639.jpg": "/static/media/lula.ac124639.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.853a85ce.js",
+    "static/css/2.9cd87427.chunk.css",
+    "static/js/2.cac85ebf.chunk.js",
+    "static/css/main.8946727f.chunk.css",
+    "static/js/main.ea5ced41.chunk.js"
+  ]
+}
